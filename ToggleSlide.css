@@ -1,0 +1,81 @@
+
+.divData{
+ background-color: rgb(87, 90, 87);
+ width: 175px;
+ height: 280px;
+ border: 1px solid rgb(252, 250, 250);
+ border-radius: 10px;
+}
+.toggleData{
+    padding: 5px;
+    list-style: none;
+    color: rgb(250, 245, 245);
+}
+.hrTag{
+    border: 1px solid rgb(253, 252, 252);
+    outline: none;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    
+}
+.text_forwardIcon{
+    display: flex;
+}
+.text{
+margin-left: 10px;
+}
+
+.XIcon{
+
+ color: #fff;
+ font-weight: 800;
+ font-family: cursive;
+ margin-top: 15px;
+ margin-left: 50px;
+}
+.data_link{
+    text-decoration: none;
+    display: flex;
+    
+}
+#toggleList{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    color: #fff;
+    margin-left: 50px;
+    list-style: none;
+}
+.forward_icon{
+margin-left: 70px;
+margin-top: 22px;
+color: #fff;
+}
+.second_div{ 
+    background-color: rgb(87, 90, 87);
+    width: 175px;
+    height: 280px;
+    border: 1px solid rgb(250, 248, 248);
+    border-radius: 10px;
+}
+.SecondHr{
+    border: 1px solid rgb(253, 252, 252);
+    outline: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.back_Arrow{
+    color: #fff;
+    margin-left: 45px;
+    list-style: none;
+    margin-right: 10px;
+
+}
+.backSign{
+   margin-top: 12px;
+}
+.second_link{
+    color: #fff;
+    text-decoration: none;
+    align-items: center;
+}
